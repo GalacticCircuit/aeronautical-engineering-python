@@ -1,0 +1,17 @@
+Aeronautical Engineering Python Tools
+--------------------------------------
+
+This repository contains beginner-level Python programs designed for aeronautical engineering applications. 
+Each program is simple and focuses on a specific topic under this broad category.
+
+While the category or topic may be complex, the code is intentionally kept simple. 
+These programs provide a starting point to:
+- help engineers with small projects,
+- inspire project ideas (such as building model rockets or simulating basic flight concepts),
+- and teach the fundamentals needed to build a solid foundation.
+
+The repository will continue to evolve. Over time, these beginner-level programs will be updated to 
+intermediate-level code, introducing more complex logic, data analysis, and simulation capabilities.
+
+These tools aim to support hobbyists, students, and professionals interested in aeronautical engineering 
+by providing practical, educational Python examples.
